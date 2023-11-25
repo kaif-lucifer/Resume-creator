@@ -1,0 +1,33 @@
+#Resume-template {
+  display: none;
+}
+.myimg {
+  border-radius: 25%;
+  width: 130px;
+  object-fit: cover;
+}
+
+.background {
+  background-color: #f9fafb;
+}
+body {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgb(0 0 0 / 54%)),
+    url("Images/bg-form.jpg");
+  background-size: cover;
+}
+#Resume-template h1 {
+  color: #f9fafb;
+}
+h1,
+h3,
+h6,
+label {
+  color: #000000;
+}
+.p1 {
+  font-size: 30px;
+  color: #f9fafb;
+}
+a {
+  color: #000000;
+}
